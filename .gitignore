@@ -1,0 +1,28 @@
+# ==========================
+# NetBeans
+# ==========================
+
+# Carpetas compiladas
+**/build/
+**/dist/
+
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos automáticos de NetBeans
+**/.netbeans_automatic_build
+**/.netbeans_update_resources
+
+# Configuración privada del usuario
+**/nbproject/private/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
