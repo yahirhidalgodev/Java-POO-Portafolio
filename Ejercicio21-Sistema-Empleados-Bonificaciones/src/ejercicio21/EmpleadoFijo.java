@@ -39,8 +39,5 @@ public class EmpleadoFijo extends Empleado{
     @Override 
     public String tipoEmpleado(){
         return "Turno fijo";
-    }
-    
-
-    
+    } 
 }

@@ -33,7 +33,7 @@ Portafolio de Programación Orientada a Objetos desarrollado en Java.
 - Ejercicio 20 - Sistema de Reservas
 
 ### Nivel 5 - Principios avanzados 
-- Ejercicio21 - Sistema de Empleados con Bonificación 
+- Ejercicio 21 - Sistema de Empleados con Bonificación 
 
 ## Tecnologías
 - Java
