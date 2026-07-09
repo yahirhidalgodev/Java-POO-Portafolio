@@ -34,6 +34,8 @@ Portafolio de Programación Orientada a Objetos desarrollado en Java.
 
 ### Nivel 5 - Principios avanzados 
 - Ejercicio 21 - Sistema de Empleados con Bonificación 
+- Ejercicio 22 - Sistema de pedidos 
+- Ejercicio 23 - Sistema de biblioteca que presta libros 
 
 ## Tecnologías
 - Java
