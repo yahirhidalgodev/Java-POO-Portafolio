@@ -39,6 +39,7 @@ Portafolio de Programación Orientada a Objetos desarrollado en Java.
 - Ejercicio 24 - Sistema de carrito para compras
 - Ejercicio 25 - Sistema para gestion de cursos
 - Ejercicio 26 - Sistema de inventario
+- Ejercicio 27 - Sistema de agenda para contactos
 
 ## Tecnologías
 - Java
