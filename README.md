@@ -41,6 +41,10 @@ Portafolio de Programación Orientada a Objetos desarrollado en Java.
 - Ejercicio 26 - Sistema de inventario
 - Ejercicio 27 - Sistema de agenda para contactos
 
+## Nivel 6 - Modelado de sistemas(Composición + Relaciones entre Objetos)
+- Ejercicio 28 - Sistema para préstamos de vehículos
+
+
 ## Tecnologías
 - Java
 - Programación Orientada a Objetos
