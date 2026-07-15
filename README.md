@@ -43,6 +43,7 @@ Portafolio de Programación Orientada a Objetos desarrollado en Java.
 
 ## Nivel 6 - Modelado de sistemas(Composición + Relaciones entre Objetos)
 - Ejercicio 28 - Sistema para préstamos de vehículos
+- Ejercicio 29 - Sistema para la gestión de un hospital.
 
 
 ## Tecnologías
